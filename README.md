@@ -27,9 +27,12 @@ On macOS and Linux:
 source venv/bin/activate
 3. Install the required dependencies:
 pip install -r requirements.txt
+
 Running the Application
 
 From the project root directory, run:
+
 python app.py
+
 Open a web browser and navigate to http://127.0.0.1:5000
 Start interacting with the Wine Chatbot!
