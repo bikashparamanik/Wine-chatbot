@@ -1,4 +1,5 @@
 # Wine Chatbot
+![Uploading wine-chatbot.png…]()
 
 ## Overview
 The Wine Chatbot is an intelligent conversational agent designed to provide information about wines, tasting experiences, and related topics. This project uses natural language processing to understand user queries and respond with relevant information from a curated knowledge base.
